@@ -1,0 +1,37 @@
+html{
+  background: darkslategrey;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+}
+body{
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.main_container{
+  justify-content: center;
+  display: flex;
+}
+
+.time_input{
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  width: 200px;
+  height:200px;
+  font-size: 50px;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.header{
+  margin-bottom: 25px;
+  text-align: center;
+  border-bottom: 1px solid black;
+}
+
+.start{
+  text-align: center;
+  margin-top: 25px;
+}
