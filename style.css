@@ -35,3 +35,11 @@ body{
   text-align: center;
   margin-top: 25px;
 }
+
+button{
+  height: 40px;
+  width:200px;
+  border-radius: 4px;
+  cursor: pointer;
+  color: rgb(77, 73, 73);
+}
